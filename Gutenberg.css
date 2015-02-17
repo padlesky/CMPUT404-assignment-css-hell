@@ -1,0 +1,27 @@
+body {
+    background-color: #f8ecc2;
+    padding-right: 10em;
+    padding-left: 10em;
+}
+
+p {
+    text-indent: 5em;
+}
+
+div {
+    text-align: center;
+}
+
+blockquote {
+    text-align: center;
+}
+
+table {
+    margin-right: auto;
+    margin-left: auto;
+    width: 40%;
+}
+
+h1,h2,h3,h4,h5 {
+    text-align: center;
+}
