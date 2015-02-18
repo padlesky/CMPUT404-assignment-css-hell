@@ -25,3 +25,8 @@ Code is licensed under the Apache 2.0 license.
 Collaborators
 =============
 Marcus Karpoff, Pranjali Pokharel
+
+Changes
+=======
+Got rid of built in styling for the 3 Gutenburg sites and added a link to 
+the a css file. This css file adds generic styling to all three pages.
