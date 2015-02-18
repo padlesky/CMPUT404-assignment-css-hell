@@ -34,6 +34,4 @@ the a css file. This css file adds generic styling to all three pages.
 Sources Used
 ============
 http://line25.com/articles/using-css-text-shadow-to-create-cool-text-effects 
-for flame text
-
-
+for flame text and neon text
