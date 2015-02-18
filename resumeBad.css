@@ -1,0 +1,45 @@
+body{
+    background-color: #000000;
+    padding-right:5em;
+    padding-left:5em;
+    color:white;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #ffde00, 0 0 70px #ffde00, 0 0 80px #ffde00, 0 0 100px #ffde00, 0 0 150px #ffde00;
+}
+
+.keyInfo {
+    text-align: left;
+    float: left;
+    width: 240px;
+}
+
+.info {
+    width: auto;
+    padding-left: 3em;
+}
+
+img {
+    height: 230px;
+    width: 230px;
+}
+
+h1 {
+    text-align: center;
+    padding-left:240px;
+    font-size:10em;
+    text-shadow: 0 0 20px #fefcc9, 10px -10px 30px #feec85, -20px -20px 40px #ffae34, 20px -40px 50px #ec760c, -20px -60px 60px #cd4606, 0 -80px 70px #973716, 10px -90px 80px #451b0e;
+}
+
+.myself {
+    text-align: left;
+    padding-left:240px;
+}
+
+.history {
+    text-align: left;
+    padding-left:240px;
+}
+
+.forThem {
+    text-align: left;
+    padding-left:240px;
+}

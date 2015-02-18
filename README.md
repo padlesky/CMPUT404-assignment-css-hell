@@ -30,3 +30,10 @@ Changes
 =======
 Got rid of built in styling for the 3 Gutenburg sites and added a link to 
 the a css file. This css file adds generic styling to all three pages.
+
+Sources Used
+============
+http://line25.com/articles/using-css-text-shadow-to-create-cool-text-effects 
+for flame text
+
+
